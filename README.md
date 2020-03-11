@@ -1,3 +1,7 @@
+```diff
+- >>> À NOTER QUE CE SYLLABUS EST PROVISOIRE ET DONC SUJET À CHANGEMENTS <<<
+```
+
 # syllabus-2020
 
 # UQAM – Faculté des sciences
