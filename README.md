@@ -49,7 +49,7 @@ Le cours vise l'acquisition de compétences en science des données et IA :
 - Python 4 : carnets Jupyter; analyse de données avec pandas
 
 ### 06 - Jeudi, 14 mai 2020 – JH Roy
-- Python 5 : traitement automatique du langage avec spaCy
+- Python 5 : traitement automatique du langage (NLP) avec spaCy
 
 ### 07 - Mardi, 19 mai 2020 – MJ Meurs
 - Données massives : définition, collecte, traitement, stratégie, régulation. 
@@ -79,7 +79,7 @@ Le cours vise l'acquisition de compétences en science des données et IA :
 ### 14 - Jeudi, 11 juin 2020 – A Charpentier
 - Algorithmes de classification
 
-### 15 - Mardi, 16 juin 2020
+### 15 - Mardi, 16 juin 2020 - Tous trois
 - Présentations finales
 
 # Travaux
