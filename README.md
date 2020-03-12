@@ -62,12 +62,12 @@ Le cours vise l'acquisition de compétences en science des données et IA :
 ### 09 - Mardi, 26 mai 2020 – MJ Meurs
 - Indexation, mise en œuvre avec Spark
 
-### 10 - Jeudi, 28 mai 2020 – MJ Meurs
-- Réglementation, données personnelles
-
-### 11 - Mardi, 2 juin 2020 – A Charpentier
+### 10 - Jeudi, 28 mai 2020 – A Charpentier
 - Introduction à la science de données
 - Expérimentation vs. observation (courte introduction aux modèles causaux)
+
+### 11 - Mardi, 2 juin 2020 – MJ Meurs
+- Réglementation, données personnelles
 
 ### 12 - Jeudi, 4 juin 2020 – A Charpentier
 - Introduction à la visualisation
