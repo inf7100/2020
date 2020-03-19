@@ -34,6 +34,7 @@ Le cours vise l'acquisition de compétences en science des données et IA :
 - Description du syllabus
 - Entente d'évaluation
 - Attentes des étudiant.e.s
+- Pourquoi on fait ça?
 - Installation de l'environnement : Anaconda, Github, VS Code
 
 ### 02 - Jeudi, 30 avril 2020 – JH Roy
