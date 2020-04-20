@@ -10,7 +10,7 @@
 # INF7100
 ## Initiation à la science des données et à l'intelligence artificielle
 
-Les mardis et jeudis de 14h00 à 17h00 au local **PK-4665**.
+Les mardis et jeudis de 14h00 à 17h00 en ligne ([plateforme Zoom](https://uqam.zoom.us/))
 
 Enseignants (en ordre de présence dans le syllabus) :
 - Jean-Hugues Roy (roy.jean-hugues@uqam.ca)
@@ -30,57 +30,57 @@ Le cours vise l'acquisition de compétences en science des données et IA :
 
 # Calendrier
 
-### 01 - Mardi, 28 avril 2020 - Tous trois
+### 01 - Mardi, 5 mai 2020 - Tous trois
 - Description du syllabus
 - Entente d'évaluation
 - Attentes des étudiant.e.s
 - Pourquoi on fait ça?
 - Installation de l'environnement : Anaconda, Github, VS Code
 
-### 02 - Jeudi, 30 avril 2020 – JH Roy
+### 02 - Jeudi, 7 mai 2020 – JH Roy
 - Python 1 : introduction générale, types de variables, boucles et conditions
 
-### 03 - Mardi, 5 mai 2020 – JH Roy
+### 03 - Mardi, 12 mai 2020 – JH Roy
 - Python 2 : lire et créer des fichiers
 
-### 04 - Jeudi, 7 mai 2020 – JH Roy
+### 04 - Jeudi, 14 mai 2020 – JH Roy
 - Python 3 : interaction avec APIs; moissonnage de données dans le web
 
-### 05 - Mardi, 12 mai 2020 – JH Roy
+### 05 - Mardi, 19 mai 2020 – JH Roy
 - Python 4 : carnets Jupyter; analyse de données avec pandas
 
-### 06 - Jeudi, 14 mai 2020 – JH Roy
+### 06 - Jeudi, 21 mai 2020 – JH Roy
 - Python 5 : traitement automatique du langage (NLP) avec spaCy
 
-### 07 - Mardi, 19 mai 2020 – MJ Meurs
+### 07 - Mardi, 26 mai 2020 – MJ Meurs
 - Données massives : définition, collecte, traitement, stratégie, régulation. 
 - Données massives et apprentissage automatique (1)
 
-### 08 - Jeudi, 21 mai 2020 – MJ Meurs
+### 08 - Jeudi, 28 mai 2020 – MJ Meurs
 - Données massives et apprentissage automatique (2)
 - Recherche d’information
 
-### 09 - Mardi, 26 mai 2020 – MJ Meurs
+### 09 - Mardi, 2 juin 2020 – MJ Meurs
 - Indexation, mise en œuvre avec Spark
 
-### 10 - Jeudi, 28 mai 2020 – A Charpentier
+### 10 - Jeudi, 4 juin 2020 – A Charpentier
 - Introduction à la science de données
 - Expérimentation vs. observation (courte introduction aux modèles causaux)
 
-### 11 - Mardi, 2 juin 2020 – MJ Meurs
+### 11 - Mardi, 9 juin 2020 – MJ Meurs
 - Réglementation, données personnelles
 
-### 12 - Jeudi, 4 juin 2020 – A Charpentier
+### 12 - Jeudi, 11 juin 2020 – A Charpentier
 - Introduction à la visualisation
 - Modélisation statistique
 
-### 13 - Mardi, 9 juin 2020 – A Charpentier
+### 13 - Mardi, 16 juin 2020 – A Charpentier
 - Corrélation et régression
 
-### 14 - Jeudi, 11 juin 2020 – A Charpentier
+### 14 - Jeudi, 18 juin 2020 – A Charpentier
 - Algorithmes de classification
 
-### 15 - Mardi, 16 juin 2020 - Tous trois
+### 15 - Mardi, 23 juin 2020 - Tous trois
 - Présentations finales
 
 # Travaux
